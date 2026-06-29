@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/ApplicationLayer/">
+    <Project Path="ApplicationLayer/ClinicSystem.Domain/ClinicSystem.Domain.csproj" />
+    <Project Path="ApplicationLayer/ClinicSystem.Services/ClinicSystem.Services.csproj" />
+    <Project Path="ApplicationLayer/ClinicSystem.ServicesAbstraction/ClinicSystem.ServicesAbstraction.csproj" />
+  </Folder>
+  <Folder Name="/InfastructureLayer/">
+    <Project Path="InfrastructureLayer/ClinicSystem.Persistence/ClinicSystem.Persistence.csproj" />
+  </Folder>
+  <Folder Name="/PresentationLayer/">
+    <Project Path="PresentationLayer/ClinicSystem.API/ClinicSystem.API.csproj" />
+    <Project Path="PresentationLayer/ClinicSystem.Presentation/ClinicSystem.Presentation.csproj" />
+  </Folder>
+  <Project Path="ClinicSystem.Shared/ClinicSystem.Shared.csproj" />
+</Solution>
